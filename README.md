@@ -7,5 +7,3 @@ League of Legends is a team-based strategy multiplayer game officially released 
 There are a lot of useful datasets published containing these factors due to the popularity of the game; we will use two of these datasets to define the relationship between the win ratio and the following factors of the game: wards, gold earned, wards destroyed, first blood, kills, deaths, assists, dragons, heralds, towers destroyed, total experience, total minions killed. What these factors mean and how they affect the game is further explained in the Gathering Data section for those who are not familiar with MOBA (multiplayer online battle arena) video games.
 
 This tutorial will analyze and experiment with the chosen datasets to provide useful pieces of information about how the win ratio varies depending on these factors in League of Legends.
-
-The tutorial is available from the following website: https://wlgjs678.github.io/
